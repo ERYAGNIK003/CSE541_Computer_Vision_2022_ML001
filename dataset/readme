@@ -1,1 +1,2 @@
-
+We have used two different datasets- VisDrone2019 and VeRI 776. VisDrone dataset is used in classification problem whereas, 
+VeRI 776 dataset is used for training a cosine metric. 
