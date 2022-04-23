@@ -1,2 +1,2 @@
 # CSE541_Computer_Vision_2022_ML001
-ML and CV combined end semester project
+In recent years, unmanned aerial vehicle (UAV) has been increasingly applied to traffic monitoring field, driver behaviour analysis, road infrastructure analysis and , traffic flow analysis. Here, primary task is vehicle recognition. However, there are many challenges for vehicle detection in the UAV aerial video, such as camera shake, different camera orientation, different UAV altitude, interferential targets and a wide range of change of scene. Also, after successful recognition, a complete trajectory of object is required in some analysis. So, we also imported DeepSORT based tracking with help of vehicle re-identification. 
